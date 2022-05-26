@@ -1,0 +1,10 @@
+D:\VisualStudioLilian\Mes\bin\Debug\Mes.exe.config
+D:\VisualStudioLilian\Mes\bin\Debug\Mes.exe
+D:\VisualStudioLilian\Mes\bin\Debug\Mes.pdb
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.csproj.AssemblyReference.cache
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.Form1.resources
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.Properties.Resources.resources
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.csproj.GenerateResource.cache
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.csproj.CoreCompileInputs.cache
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.exe
+D:\VisualStudioLilian\Mes\obj\Debug\Mes.pdb
